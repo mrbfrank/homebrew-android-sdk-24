@@ -12,3 +12,6 @@ This is a Homebrew Tap that installs the previous version of android-sdk which w
 ```
 brew install mrbfrank/android-sdk-24/android-sdk
 ```
+
+### Note
+- The Android Platform-Tools need to be installed as part of the SDK.
